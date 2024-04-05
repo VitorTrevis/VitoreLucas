@@ -1,0 +1,205 @@
+html{
+	background-color: #BFD202
+}
+p{
+	color: #0a5247;
+	margin-left: 23
+}
+h1{
+	color: #0a5247;
+	margin-left: 23
+}
+h2{
+	color: #0a5247;
+}
+h3{
+	color: #0a5247;
+}
+h4{
+	color: #0a5247;
+}
+ul{
+	color: #0a5247;
+}
+li{
+	color: #0a5247;
+}
+img{
+
+	width: : 600px
+}
+#bots{
+	padding: 0 	5px 5px 5px;
+	border: 20px solid white;
+}
+#paragrafo{
+	margin-left: 0
+}
+#FALECONOSCO{
+	padding: 0 	5px 5px 5px;
+	border: 20px solid white;
+	margin-left: 500
+}
+#fotoVitor{
+	width: 200px;
+	margin-left: 200
+}
+#fotoLucas{
+	width: 150px;
+	margin-right: 300
+}
+#espemnutrição{
+	margin-left: 200
+}
+#espemquimica{
+	margin-left: 650
+}
+#caixa1{
+	text-align: left;
+	background-color: #FFC643;
+}
+#caixa2{
+	text-align: center;
+	background-color: #FFC643;
+}
+#caixa3{
+	text-align: right;
+	background-color: #FFC643;
+}
+/*não sei deixar uma caixa do lado da outra*/
+#pag501{
+	margin-left: 20px
+}
+#pag502{
+	font-size: 20px
+}
+#cardapio{
+	margin-right: 70px;  
+	width: 250px;
+	height: 412px;
+}
+.div1{
+	height: 75px;
+	width: 200px;
+	background-color: white;
+}
+.div2{
+	height: 800px;
+	width: 1529px;
+	background-color: #F8F4ED;
+}
+.div3{
+	height: 100px;
+	width: 1000px;
+	background-color: #BFD202;
+}
+.div4{
+	height: 250px;
+	width: 1000px;
+	background-color: #F8F4ED;
+}
+.fundo_amarelo{
+	background-color: #FFC643;
+}
+.botao_de_fale_conosco_aqui{
+	height: 70px;
+	width: 200px;
+	background-color: white;
+	color: #0a5247;
+	border-color: transparent;
+	font-weight: bold;
+	border-radius: 20px;
+	cursor: pointer;
+	transition: transform 0.3s ease-in-out;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	visibility: hidden;
+}
+.div5{
+	margin-left: 30px
+}
+#padding{
+	padding-bottom: 300px;
+}
+#Alinhar_nossos_profissionais{
+	text-align: center;
+}
+.branquear{
+	background-color: #F8F4ED;
+}
+.tituloesubt{
+	text-align: center;
+	background-color: #A4C9A3;
+}
+#Afinartexto{
+	font-weight: lighter;
+}
+.caixas{
+	background-color: #FFC643;
+}
+#ultimaimg{
+	border-radius: 0px;
+	height: 644px;
+	width: 600px;
+}
+.ultima_pag{
+	color: red;
+	background-color: #0A5247;
+}
+#a{
+	color: white;
+}
+#b{
+	color: white;
+}
+#c{
+	color: white;
+}
+#d{
+	color: white;
+}
+#e{
+	color: white;
+}
+#f{
+	color: white;
+}
+#h{
+	color: white;
+}
+#i{
+	color: white;
+}
+#j{
+	color: white;
+}
+#k{
+	color: white;
+}
+#l{
+	color: white;
+}
+#m{
+	color: white;
+}
+#n{
+	color: white;
+}
+#o{
+	color: white;
+}
+#p{
+	color: white;
+}
+#nomevitor{
+	position: absolute;
+	margin-left:  250px;
+	margin-top: -20px;
+
+}
+#nomelucas{
+	position: absolute;
+	margin-left:  700px;
+	margin-top: -20px;
+
+}
